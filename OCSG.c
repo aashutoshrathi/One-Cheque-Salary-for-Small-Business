@@ -3,7 +3,7 @@ int title()
 {
     system("COLOR 0A");
    printf(" \t\t\t\t=====================================================\n");
-   printf(" \t\t\t\t      Welcome to Bank Cheque Genrator BY A.Rathi     \n");
+   printf(" \t\t\t\t      Welcome to Bank Cheque Generator by A.Rathi     \n");
    printf(" \t\t\t\t=====================================================\n");
    return 0;
 }
