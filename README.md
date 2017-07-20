@@ -11,4 +11,8 @@ For Best results compile with Code::Blocks, else remove the color code from star
 See a live working demo for a School at https://drive.google.com/file/d/0B3LWQGcO8qcwOVhuU0FSZU1fZVE/view?usp=sharing 
 For any changes or contributions feel free to open an issue .
 
+Name and description | Downloads
+-------------------- | -------------
+[OCSG](OCSG) - One Check Salary Generator in C. | [![npm](https://img.shields.io/npm/dm/OCSG.svg?label=DL)]()
+
 ## Coming Soon as a feature in android app TIE School Manager
